@@ -30,12 +30,6 @@ Passionate about combining **code + design** to deliver experiences that feel go
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flashpass96&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flashpass96&layout=compact&theme=tokyonight)
-
----
-
 ## 🌍 Connect With Me  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/stanley-sochima-302a54247)  
